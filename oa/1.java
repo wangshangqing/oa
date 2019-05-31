@@ -3,5 +3,7 @@ public class Test{
 		System.out.print("lisi");
 		System.out.print("zhangsan");
 		System.out.print("lisi1");
+		System.out.print("zhangsan1");
+
 	}
 }
